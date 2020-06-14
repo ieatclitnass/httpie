@@ -1,4 +1,4 @@
-HTTPie: a CLI, cURL-like tool for humans
+ItHTTPie: a CLI, cURL-like tool for humans
 ########################################
 
 HTTPie (pronounced *aitch-tee-tee-pie*) is a command line HTTP client.
